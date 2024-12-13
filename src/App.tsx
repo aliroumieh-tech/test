@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <>hello world, hello this is jsm, ijah </>;
+  return <>hello world, this is ali!</>;
 }
 
 export default App;
